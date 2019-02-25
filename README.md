@@ -1,1 +1,1 @@
-# Schroedinger-Equation-
+# Schroedinger-Equation
